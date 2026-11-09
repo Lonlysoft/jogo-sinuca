@@ -1,0 +1,1 @@
+gcc mybib.c mybib.h stb_image.h final-trabalho.c -o cg.out -lglut -lGLU -lGL -lm
